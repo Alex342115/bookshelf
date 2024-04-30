@@ -106,7 +106,7 @@ export default function Main() {
           <img className="profile-photo w-12 rounded-full" src={profile} alt="MainProfile" />
           <div className="profile-details">
             <h5 className="text-sm">Hello</h5>
-            <h1 className="font-black text-xl">Gandu Log</h1>
+            <h1 className="font-black text-xl">User</h1>
           </div>
         </div>
       </div>

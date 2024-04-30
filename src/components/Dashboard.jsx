@@ -12,11 +12,11 @@ export default function Dashboard() {
         className="absolute z-5 bottom-0 drop-shadow-[0_40px_30px_rgba(245,96,86,0.5)]"
       />
       <div
-        className=" h-[53rem] w-[150rem] bg-white z-10 mx-9 
+        className=" h-[42rem] w-[150rem] bg-white z-10 mx-9 
                         rounded-xl drop-shadow-2xl flex"
       >
         <Sidebar />
-        <Main />
+        <Main /> 
       </div>
     </div>
   );

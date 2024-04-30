@@ -13,8 +13,8 @@ export default function Loginpage() {
       />
       <div className="w-1/4 h-5/6 z-20 bg-white rounded-lg drop-shadow-2xl flex flex-col gap-5 justify-center items-center">
         <h1 className="text-2xl font-semibold">
-          My <span className="text-red-400">Book</span> <br />
-          <span className="text-4xl tracking-widest">Shelf</span>
+          <span className="text-red-400 text-3xl">Book </span>
+          <span className="text-4xl tracking-widest">Flix</span>
         </h1>
         <h2>Welcome Back!</h2>
         <h3 className="pb-6 text-slate-400">

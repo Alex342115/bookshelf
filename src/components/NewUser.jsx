@@ -11,15 +11,15 @@ export default function NewUser() {
         alt="background"
         className="absolute bottom-0 drop-shadow-[0_40px_30px_rgba(245,96,86,0.5)]"
       />
-      <div className="w-1/4 h-5/6 z-20 bg-white rounded-lg drop-shadow-2xl flex flex-col gap-5 justify-center items-center">
+      <div className="w-1/4 h-5/6 z-20 bg-white rounded-lg drop-shadow-2xl flex flex-col gap-3 justify-center items-center">
         <h1 className="text-2xl font-semibold">
-          My <span className="text-red-400">Book</span> <br />
-          <span className="text-4xl tracking-widest">Shelf</span>
+          <span className="text-red-400 text-3xl">Book </span> 
+          <span className="text-4xl tracking-widest">Flix</span>
         </h1>
         <h2>Registration</h2>
-        <h3 className="pb-6 text-slate-400">For Both Staff & Students</h3>
+        <h3 className="pb-1 text-slate-400">For Both Staff & Students</h3>
 
-        <form className="flex flex-col gap-4 w-3/4">
+        <form className="flex flex-col gap-1 w-3/4">
           <label>
             {" "}
             <h2 className="font-semibold mb-1">Reg No.</h2>
